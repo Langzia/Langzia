@@ -1,2 +1,2 @@
 # Langzia
-My Blog
+欢迎访问我的博客！
